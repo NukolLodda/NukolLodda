@@ -8,5 +8,6 @@ m_rated_python_program_but_its_all_a_joke with absolute literal nonsense
 however I have been practicing a little bit in Java thought non has been
 uploaded to Github.
 
-I also make occasional contents on Youtube and Tiktok and I might just
-showcase code there every once in a while.
+I also make occasional contents on Youtube and Tiktok(my usernames there
+are also NukolLodda) and I might just showcase code there every once in
+a while.
