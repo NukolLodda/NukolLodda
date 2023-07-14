@@ -26,7 +26,9 @@ My hobbies include:
 - drawing (sometimes)
 
 <br>
+
 **What Inspired Me To Do Modding**
+
 <br>
 
 Modding has been a long time dream of mine since I was in around 5th grade. I remember back before I had a PC of any kind
