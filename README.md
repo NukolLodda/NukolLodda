@@ -42,7 +42,7 @@ My hobbies include:
 
 Modding has been a long time dream of mine since I was in around 5th grade.
 
-However, watching other people play mods and a mix of my crrative desire is what mainly inspired me to do modding
+However, watching other people play mods and a mix of my creative desire is what mainly inspired me to do modding
 
 <br>
 
