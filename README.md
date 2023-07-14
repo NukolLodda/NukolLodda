@@ -6,12 +6,12 @@ never know...
 
 Age: Minor (in High School) <br>
 Prns: He/him <br>
-Orientation: Between Bi and Ace?(I'm no even so sure myself) <br>
+Orientation: Possibly Bi?(I'm no even so sure myself) <br>
 
 ---
 **Projects I Have**
 
-I am the head developer of the Minecraft mod <a href=https://github.com/NukolLodda/Tekora>Tekora</a> and
+I am the head developer of the Minecraft mod series, <a href=https://github.com/NukolLodda/Tekora>Tekora</a> and
 I'm also currently working on another Minecraft mod, <a href=https://github.com/NukolLodda/Modussy>Modussy</a> as a solo project.
 
 I have a couple of resources I've hand crafted myself that allows me to basically generate files since the mods
@@ -32,7 +32,7 @@ in the form of a digital footprint.
 My hobbies include:
 - videogaming
 - drawing (sometimes)
-- making joke programs (like Modussy)
+- making programs as a joke
 
 <br>
 
