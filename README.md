@@ -27,6 +27,8 @@ My hobbies include:
 
 <br>
 **What Inspired Me To Do Modding**
+<br>
+
 Modding has been a long time dream of mine since I was in around 5th grade. I remember back before I had a PC of any kind
 where I would watch videos of people playing modded Minecraft, which in of itself inspired me to try the game
 out myself, only to be dissapointed when finding out that Bedrock edition doesn't have support for mods and that some
