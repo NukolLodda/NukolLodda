@@ -4,9 +4,9 @@ I am also currently studying computer science and as of now, I can write
 programs in both python and java, however, I might know more and you'll
 never know...
 
-Age: Minor (in High School)
-Prns: He/him
-Orientation: Straddling between Bi and Ace (I'm no even so sure myself)
+Age: Minor (in High School) <br>
+Prns: He/him <br>
+Orientation: Between Bi and Ace?(I'm no even so sure myself) <br>
 
 ---
 **Projects I Have**
