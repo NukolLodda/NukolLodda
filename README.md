@@ -5,8 +5,7 @@ programs in both python and java, however, I might know more and you'll
 never know...
 
 Age: Minor (in High School) <br>
-Prns: He/him <br>
-Orientation: Possibly Bi?(I'm no even so sure myself) <br>
+Pronouns: He/him <br>
 
 ---
 **Projects I Have**
@@ -18,6 +17,14 @@ I have a couple of resources I've hand crafted myself that allows me to basicall
 I make often needs hundreds of json files that are basically replicas with a couple values changed
 
 They can all be found <a href=https://github.com/NukolLodda/MinecraftModdingFacilitater>here</a>.
+
+(All my mods are under CC-BY-NC unless otherwise stated,
+ie if you were to copy and distribute my mods
+you must let the person know that I made it and that
+you can NOT make money distributing/making copies of my mod,
+minor snippets of code are ok since I understand that finding info
+online on Minecraft modding can be quite difficult but the merging
+and copying of my projects must abide by the license)
 
 ---
 **About Me**
