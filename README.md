@@ -18,13 +18,16 @@ I make often needs hundreds of json files that are basically replicas with a cou
 
 They can all be found <a href=https://github.com/NukolLodda/MinecraftModdingFacilitater>here</a>.
 
-(All my mods are under CC-BY-NC unless otherwise stated,
+All my mods are under CC-BY-NC unless otherwise stated,
 ie if you were to copy and distribute my mods
 you must let the person know that I made it and that
 you can NOT make money distributing/making copies of my mod,
 minor snippets of code are ok since I understand that finding info
 online on Minecraft modding can be quite difficult but the merging
-and copying of my projects must abide by the license)
+and copying of my projects must abide by the license.
+However this license only applies to my mods or anything else I
+make in Java or maybe C++ if I ever figure that language out
+and programs I made in python can be distributed and copied freely.
 
 ---
 **About Me**
