@@ -1,8 +1,7 @@
 Hello I'm NukolLodda
 I am a modder for Minecraft who made Tekora and Modussy
-I am also currently studying computer science and as of now, I can write
-programs in both python and java, however, I might know more and you'll
-never know...
+I am also currently studying computer science and as of now,
+I know python, java, and javascript.
 
 Age: Minor (in High School) <br>
 Pronouns: He/him <br>
@@ -42,14 +41,3 @@ My hobbies include:
 Modding has been a long time dream of mine since I was in around 5th grade.
 
 However, watching other people play mods and a mix of my creative desire is what mainly inspired me to do modding
-
-<br>
-
----
-**Future Projects**
-
-<br>
-
-I don't actually plan to persue a career in computer science but I do have plans for a couple of programs that doens't involve
-modding Minecraft to make content off of. Though none of them are games but rather, just another series of jokes since
-making joke programs are quite fun. I don't however plan to make any mods after Modussy and the Tekora mod series.
