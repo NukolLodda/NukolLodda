@@ -3,7 +3,6 @@ I am a modder for Minecraft who made Tekora and Modussy
 I am also currently studying computer science and as of now,
 I know python, java, and javascript.
 
-Age: Minor (in High School) <br>
 Pronouns: He/him <br>
 
 ---
