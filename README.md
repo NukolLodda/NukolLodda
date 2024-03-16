@@ -8,8 +8,7 @@ Pronouns: He/him <br>
 ---
 **Projects I Have**
 
-I am the head developer of the Minecraft mod series, <a href=https://github.com/NukolLodda/Tekora>Tekora</a> and
-I'm also currently working on another Minecraft mod, <a href=https://github.com/NukolLodda/Modussy>Modussy</a> as a solo project.
+I am the sole developer of the Minecraft mod series, <a href=https://github.com/NukolLodda/Tekora>Tekora</a>.
 
 ---
 **About Me**
