@@ -8,7 +8,8 @@ Pronouns: He/him <br>
 ---
 **Projects I Have**
 
-I am the sole developer of the Minecraft mod series, <a href=https://github.com/NukolLodda/Tekora>Tekora</a>.
+I am the creator of the Minecraft mod, <a href=https://github.com/NukolLodda/Tekora>Tekora</a>
+along with making a <a href="https://github.com/NukolLodda/Paint>basic paint program</a>.
 
 ---
 **About Me**
