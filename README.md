@@ -9,7 +9,7 @@ Pronouns: He/him <br>
 **Projects I Have**
 
 I am the creator of the Minecraft mod, <a href=https://github.com/NukolLodda/Tekora>Tekora</a>
-along with making a <a href="https://github.com/NukolLodda/Paint>basic paint program</a>.
+along with making a <a href=https://github.com/NukolLodda/Paint>basic paint program</a>.
 
 ---
 **About Me**
